@@ -13,7 +13,4 @@ The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Pipeline)
 you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
-this is the demo editing of line
-hi im testing the changes in the jenkins build file
-this will be another line of code to be tested
-this is still happening and lot worser goodbye....
+this is the demo happening right now
